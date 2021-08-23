@@ -1,1 +1,0 @@
-# openbgpd_exporter
